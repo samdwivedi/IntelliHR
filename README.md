@@ -197,12 +197,3 @@ AI-based Hiring Engine
 Real-time Performance Insights
 
 Global Payroll Compliance
-
-👨‍💻 Author
-
-Prashant Singh
-Full Stack Developer | AI & Web3 Enthusiast
-
-📄 License
-
-This project is for educational and demonstration purposes.
